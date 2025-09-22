@@ -1,0 +1,23 @@
+appId: com.anonymous.SpareCraft
+---
+- tapOn: Get Started
+- tapOn: Sign Up
+- tapOn: First Name
+- inputText: 'Testing'
+- tapOn: Last Name
+- inputText: 'SC'
+- tapOn: Address
+- inputText: 'lahore, Pakistan'
+- tapOn: Mobile No (e.g 03001234567)
+- inputText: '03001234567'
+- tapOn: CNIC (e.g 35202-1111111-1)
+- inputText: '35202-1111111-1'
+- tapOn: Email (example@gmail.com)
+- inputText: 'testing@gmail.com'
+- tapOn: Password
+- inputText: 'Password123!'
+- scrollUntilVisible:
+    element:
+      text: Create Account
+- tapOn: Create Account
+

@@ -1,0 +1,19 @@
+appId: com.anonymous.SpareCraft
+---
+- tapOn: Sporty Chrome Wheel, Lightweight and stylish alloy wheel designed for better performance., From Rs. 9500 200
+- tapOn: +
+- tapOn: Add To Cart
+
+- tapOn: Bumpers
+- tapOn: Aero Front Bumpers, Streamlined front bumper with aerodynamic design., From Rs. 6000 500
+- tapOn: +
+- tapOn: Add To Cart
+
+- tapOn: Lights
+- tapOn: Halo Projector Headlights, Stylish halo projector headlights for a modern look., From Rs. 5000 400
+- repeat:
+    times: 3
+    commands:
+      - tapOn:
+          text: "+"
+- tapOn: Add To Cart

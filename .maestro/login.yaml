@@ -1,0 +1,12 @@
+appId: com.anonymous.SpareCraft
+---
+- tapOn:
+    id: text-input-flat
+- inputText: 'testing@gmail.com'
+- tapOn: Password
+- inputText: 'Password123!'
+- tapOn: Log In
+
+
+
+

@@ -1,0 +1,9 @@
+appId: com.anonymous.SpareCraft
+---
+- launchApp:
+    clearState: true
+
+- runFlow: signup.yaml
+- runFlow: login.yaml
+- runFlow: shopping.yaml
+- runFlow: checkout.yaml
