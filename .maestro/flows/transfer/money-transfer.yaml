@@ -1,0 +1,6 @@
+appId: com.anonymous.SpareCraft
+---
+- tapOn: My Cart
+- tapOn: Confirm Order
+- tapOn: Place Order
+- tapOn: Continue Shopping
